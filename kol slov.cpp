@@ -1,3 +1,7 @@
+#include <iostream>
+#include<TCHAR.H>
+#include <string.h>
+#include <conio.h>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
